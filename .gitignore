@@ -1,0 +1,21 @@
+# macOS
+
+.DS_Store
+
+# Node
+
+node_modules
+
+# IDE
+
+.idea/
+
+.code/
+
+.vscode/
+
+# output
+
+dist
+build
+output
